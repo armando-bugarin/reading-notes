@@ -6,6 +6,8 @@ Growth mindset is the belief that intelligence and skill is not inherited, but c
 
 `CONSISTENCY IS KEY!`
 
+Strive for ~~perfection~~ improvement.
+
 **REMINDERS**
 
 1. Learning takes time, you may not understand something right away and that is okay. Keep practicing and you will continue to improve.
