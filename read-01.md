@@ -9,8 +9,8 @@
 2. **Why do we use Markdown?**
 
 3. **What symbol will create a heading in Markdown?**
-    - **How many do you need to create the largest heading?**
-    - **How many do you need to create the smallest heading?**
+    1. **How many do you need to create the largest heading?**
+    2. **How many do you need to create the smallest heading?**
 
 4. **When making text bold or italicized for emphasis, it is best practice to use which symbol?**
 
