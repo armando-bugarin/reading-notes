@@ -1,6 +1,12 @@
 # Markdown
 
+Markdown is one of the most popular markup languages in the world. It is a lightweight markup language that can add formatting elements to plaintext text documents. Applications just as microsoft word are used by clicking buttons to add formatting and phrasing elements that can be seen instantly. Markdown isn't used by clicking buttons. It is used by adding syntax to the text to add elements. Some examples of adding syntax are: 
 
+- Create a heading with `#` in front of the phrase. `# Heading 1`
+- Insert an emoji by typing a colon followed by name of emoji. `:emojicode`
+- Strikethrough text with `~strikethrough text here~`
+
+Those are just a few examples of adding a syntax. There are many more to use in markdown. 
 
 ### Answers
 
