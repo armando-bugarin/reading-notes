@@ -14,6 +14,6 @@
 
 4. **When making text bold or italicized for emphasis, it is best practice to use which symbol?** To make bold, use two asterisks around words like `**bold**`. To make italicized, use one asterisk around words like `*italicized*`. To make a word both bold and italicized, use three asterisks around word like `***word***`.
 
-5. **How do you create a link with Markdown?** 
+5. **How do you create a link with Markdown?** Use brackets to close your link text followed by the URL of the link in parentheses, such as `[wikipedia ice cream](https://en.wikipedia.org/wiki/Ice_cream)`.
 
 6. **What are the three symbols you can use to create an unbordered (bulleted list with Markdown?**
