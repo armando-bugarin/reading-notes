@@ -2,7 +2,7 @@
 
 ## Git Intro
 
-
+text here of review
 
 1. What is Version Control?
 2. What is `cloning` in Git?
