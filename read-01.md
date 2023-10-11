@@ -20,6 +20,6 @@ Those are just a few examples of adding a syntax. There are many more to use in 
 
 4. **When making text bold or italicized for emphasis, it is best practice to use which symbol?** To make bold, use two asterisks around words like `**bold**`. To make italicized, use one asterisk around words like `*italicized*`. To make a word both bold and italicized, use three asterisks around word like `***word***`.
 
-5. **How do you create a link with Markdown?** Use brackets to close your link text followed by the URL of the link in parentheses, such as `[wikipedia ice cream](https://en.wikipedia.org/wiki/Ice_cream)`.
+5. **How do you create a link with Markdown?** Use brackets to close your link text followed by the URL of the link in parentheses, such as `[Wikipedia ice cream](https://en.wikipedia.org/wiki/Ice_cream)`.
 
 6. **What are the three symbols you can use to create an unordered (bulleted list with Markdown?** Three symbols to use are a dash `-`, asterisk `*`, and a plus sign `+`. These are used in front of the line items.
