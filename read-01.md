@@ -1,7 +1,5 @@
 # Markdown
 
-
-
 ### Answers
 
 1. **What is Markdown?**
