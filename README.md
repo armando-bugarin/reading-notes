@@ -17,3 +17,32 @@ Strive for ~~perfection~~ improvement.
 My name is Armando Bugarin. I have professional experience as a real estate agent and I am also a Air Force veteran. I live in Kirkland, WA, and a link to my Github profile is below 👇
 
 [Github Profile](https://github.com/armando-bugarin)
+
+### Table of Contents Class-102
+
+1. [Day 1 notes](./class-102/102-day1-notes.md)
+2. [Day 2 notes](./class-102/102-day2-notes.md)
+3. [Day 3 notes](./class-102/102-day3-notes.md)
+4. [Day 4 notes](./class-102/102-day4-notes.md)
+5. [Day 5 notes](./class-102/102-day5-notes.md)
+6. [Day 6 notes](./class-102/102-day6-notes.md)
+7. [Day 7 notes](./class-102/102-day7-notes.md)
+8. [Day 8 notes](./class-102/102-day8-notes.md)
+
+### Table of Contents Class-201
+
+1. [Day 1 notes](./class-201/201-day1-notes.md)
+2. [Day 2 notes](./class-201/201-day2-notes.md)
+3. [Day 3 notes](./class-201/201-day3-notes.md)
+4. [Day 4 notes](./class-201/201-day4-notes.md)
+5. [Day 5 notes](./class-201/201-day5-notes.md)
+6. [Day 6 notes](./class-201/201-day6-notes.md)
+7. [Day 7 notes](./class-201/201-day7-notes.md)
+8. [Day 8 notes](./class-201/201-day8-notes.md)
+9. [Day 9 notes](./class-201/201-day9-notes.md)
+10. [Day 10 notes](./class-201/201-day10-notes.md)
+11. [Day 11 notes](./class-201/201-day11-notes.md)
+12. [Day 12 notes](./class-201/201-day11-notes.md)
+13. [Day 13 notes](./class-201/201-day13-notes.md)
+14. [Day 14 notes](./class-201/201-day14-notes.md)
+15. [Day 15 notes](./class-201/201-day15-notes.md)
