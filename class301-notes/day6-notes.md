@@ -21,3 +21,5 @@
 6. **What does `PUT` do?** When a system wants to replace something in another system.
 
 7. **What does `PATCH` do?** When a system wants to do a partial update.
+
+`## Things I want to know more about`
