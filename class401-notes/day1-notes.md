@@ -1,3 +1,9 @@
 # Read: Class 01
 
+1. **In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles.** Main challenges faced by beginners learning Python are being thrust far outside their comfort zone and research hours on end. Two strategies to overcome these obstacles are to remember your "why," the purpose of taking this class. This hopefully will help you persevere through the hard times. And learning to ask for help to either classmates or the TA's will help greatly getting through research and hard times.
+
+2. **After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity.** Time complexity and space complexity are two essential concepts in the analysis of algorithms, providing insights into how the performance of an algorithm scales with the size of the input data. By analyzing these complexities, programmers can anticipate how an algorithm will perform as the input data grows and can choose the most suitable algorithm for a given problem based on its resource requirements.
+
+3. **Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.** Mutable objects allow modifications to their state after creation. Immutable objects do not allow modifications to their state; any operation that appears to modify the object actually creates a new object. Mutable objects may be less memory-efficient as modifications can lead to in-place changes. Immutable objects are generally more memory-efficient because new objects are created rather than modifying existing ones. Mutable objects are not hashable, which means they cannot be used as keys in dictionaries or elements in sets. Immutable objects are hashable and can be used as keys in dictionaries or elements in sets.
+
 ## `Things I want to know more about`
