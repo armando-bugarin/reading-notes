@@ -7,3 +7,6 @@
 3. **JavaScript**
 4. **React**
 5. **Python**
+
+- Django and Docker
+- back-end development
