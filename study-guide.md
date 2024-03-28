@@ -10,3 +10,7 @@
 
 - Django and Docker
 - back-end development
+
+### Practice here for markdown
+
+***Italics***
