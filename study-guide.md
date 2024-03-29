@@ -14,3 +14,7 @@
 ### Practice here for markdown
 
 ***Italics***
+
+**cross out text**
+
+~~cross out text~~
