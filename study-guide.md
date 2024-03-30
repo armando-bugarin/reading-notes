@@ -1,6 +1,6 @@
 # Read: Class 01
 
-## Study Guide for Software Development
+## Study Guide
 
 1. **HTML**
 2. **CSS**
@@ -18,3 +18,9 @@
 **cross out text**
 
 ~~cross out text~~
+
+#### Look into
+
+- API's
+- Databases
+- Server side
